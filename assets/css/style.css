@@ -1,0 +1,16 @@
+body{
+
+}
+
+header{
+
+}
+
+footer{
+    position: fixed;
+    bottom: 0%;
+}
+
+li{
+    color: lightslategray
+}

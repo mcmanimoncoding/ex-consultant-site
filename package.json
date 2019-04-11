@@ -1,0 +1,24 @@
+{
+  "name": "ex-consultant-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sal.js": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcmanimoncoding/ex-consultant-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcmanimoncoding/ex-consultant-site/issues"
+  },
+  "homepage": "https://github.com/mcmanimoncoding/ex-consultant-site#readme"
+}
